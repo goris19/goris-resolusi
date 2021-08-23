@@ -2,3 +2,5 @@ Goris Resolusi
 - membuat konten dua kali seminggu
 - membuat pengelolaan website video
 - membuat forum diskusi
+- membuat workshop
+- kolaborasi dengan expert
